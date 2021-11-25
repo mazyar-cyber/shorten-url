@@ -1,6 +1,6 @@
 # Url Shortner with Laravel!
 **demo**
-![Demo of project](https://usaupload.com/5nWK/UrlShortner.PNG)
+![Demo of project](https://ibb.co/d7T8Z53)
 
 
 
